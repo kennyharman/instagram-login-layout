@@ -1,0 +1,7 @@
+.signupButton {
+    background: none;
+    border: none;
+    margin-top: 1px;
+    color: var(--light-blue);
+    font-weight: bold;
+}

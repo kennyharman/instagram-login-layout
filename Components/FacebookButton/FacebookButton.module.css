@@ -1,0 +1,26 @@
+.facebookButton {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 25px;
+    font-family: sans-serif;
+    padding-top: 2px;
+    background: none;
+    border: none;
+    color: var(--blue);
+}
+
+.facebookLogo {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    border-radius: 2px;
+    margin-top: 25px;
+}
+
+.facebookLogin {
+    display: flex;
+    justify-content: center;
+}
